@@ -1646,6 +1646,7 @@ declare namespace React {
         form?: string;
         multiple?: boolean;
         name?: string;
+        readOnly?: boolean;           
         required?: boolean;
         size?: number;
         value?: string | string[] | number;
